@@ -1,2 +1,2 @@
-print("hola")
-print("prueba")
+print("hola hola")
+print("prueba prueba")
